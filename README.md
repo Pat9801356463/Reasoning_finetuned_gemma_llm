@@ -1,3 +1,4 @@
+Competition Link : https://www.kaggle.com/competitions/google-tunix-hackathon
 Problem Statement
 Large Language Models (LLMs) can be prompted to explain their outputs; however, these explanations are often post-hoc, loosely correlated with the actual internal computations that produced the answer, and sometimes incorrect or irrelevant. Such explanations fail to provide true transparency and undermine trust in model reasoning.
 
