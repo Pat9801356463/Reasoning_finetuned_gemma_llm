@@ -93,6 +93,7 @@ norm/ln: Normalization - STABILIZES activations across layers
 
 For IAL Reasoning:
 q_proj → INTENTION (what to focus on)
+Link for kaggle notebook : https://www.kaggle.com/code/pratyush9801/train-llm-on-reasoning-based-intent-action-lead
 
 v_proj → ACTION (what to extract)
 
